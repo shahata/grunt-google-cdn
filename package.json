@@ -1,5 +1,5 @@
 {
-  "name": "grunt-google-cdn",
+  "name": "grunt-google-cdn-shahata",
   "version": "0.2.1",
   "description": "Grunt task for replacing refs to resources on the Google CDN",
   "main": "Gruntfile.js",
@@ -14,11 +14,11 @@
   },
   "dependencies": {
     "bower": ">=1.0.0",
-    "google-cdn": "~0.2.0"
+    "google-cdn-shahata": "~0.2.0"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/btford/grunt-google-cdn"
+    "url": "git://github.com/shahata/grunt-google-cdn"
   },
   "keywords": [
     "grunt",
