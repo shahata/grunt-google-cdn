@@ -1,7 +1,7 @@
 'use strict';
 
 var path = require('path');
-var googlecdn = require('google-cdn');
+var googlecdn = require('google-cdn-shahata');
 var bowerConfig = require('bower').config;
 
 
